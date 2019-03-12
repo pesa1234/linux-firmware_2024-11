@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-firmware-20190312/ 20190312
+Comment: git version 2.17.2
+
+iQIzBAABCAAdFiEETN6FdeVHv4Nf4VgHoxtr1ySGz9YFAlyHyJkACgkQoxtr1ySG
+z9ZzoBAAk0Z+kHsv/WswrnRaTggAux0926WBxbMqp0VGbXUUTEFz8ir7ncisKpZZ
+Zxw0mrPkJQicyCnDfuqbW094M3rbXP0Bsu/etkoTHlJIMPLv7gUw5eCFaacJWw5S
+ScmSsFd6tx5islcj4hu9uhpnq3Klz9B8kM2AMwgPsz4jIhAgu6VwulzxSq8U1VAn
+NLcMQr7VGQwe2OypkohjqQe9ApuZHj97gY26G1htifGNWh5LtjRUqGg32bee7OKY
+Jvo29/fk1SreiKg9n12thW9qn6SR5tFN/5IghwFOccJfJXusij4AaZ5QnEjFYYUE
+voDyAoZUWzlUDmu++ExY/2SR91eAohTWfZpH1aoO83usqsBCuv5qO4Vye9lNrofp
+PyspZ2cYAhv7j3nKE7zft9yb/b2AvggmooiytxhZJSMhp0qBdVo8h4DDGPxspWvK
+pfwL5K7MRzU1otlVTy22Gc4+xsIJxJXESCDJoalQ7KXdM/LnBfWMxK+knIW7KS19
+wo6V4zuoWWbe3n7Utek0cYcTkK3AvHXMVrmSwZ01s6vfCtdSysmUpSuZm2vXLZIh
+D8XyNGG825WNhSsIgRwfzZI336i8CNpAjhLzWP3gA9YckJyT/ZBGWLLTpDDOgr+a
+ttjpabvFxKq+jGHnYCGez51oDzq1ssBMEhK95ZuYFW6sj3ejKrw=
+=vn0w
+-----END PGP SIGNATURE-----
