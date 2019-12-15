@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-firmware-20191215/ 20191215
+Comment: git version 2.18.1
+
+iQIzBAABCAAdFiEETN6FdeVHv4Nf4VgHoxtr1ySGz9YFAl32KGwACgkQoxtr1ySG
+z9bFPQ/7BBZ1HJUccSpWK5OjIfgIge0K3d+NX2TvQ5rs45ZB6+RtbBO96co3aVdN
+2uuj+JihdukvIcqsx9711wK0y//WIIXhHWUQNjy6xXgl2jmXbkTYsFqMNqxzpWtw
++R3F7kRMLDR5ny1aExMO4hjIJJXhRZlEFVUEO8idAgHsq2gbXRPEv5Uh5EeRBgc4
+SJ6s5b1wpg80kSdHYhHfIfeOYBgC83DRiMaOlaAXA8Uqqp+nQnh0tnZmIQZR5O6/
+R9k6n3+aktq4toqBrM4Mxhxi9dYvnECXz3fTbIEVNewdgd/xxjTtvVNf0MIUeNJG
+/1KY0XLN6Bhlfps0Nptxeprjkk5FlCbTInvZX+En0lPmiyFiGmpc5XRaJEUJts+6
+h8IPIj/TeKUVPgK5hFitoHfnesUpIQuJmoye94TlZtJ19Jyy2h9Dpr6AEWu40CtE
+RMw3tTnjHozvXlgPLY0BkLSoWrmo11JWuQq1ehN7tHFFE5ZzHmpURSczXuXKUUX2
+n180XX1L+DVQyGcz1Iy9D1EXHdPNgRPg1ski7A3aZ3zBv44BD+9BUYQ/Vtklcg2M
+Caw3acHqPoFIpUO19t3pefUmu4M8xadr4Pm1A7hLE4UxCmvJEG5KzEkMdIfEydxj
+aT27eheb3a56ag/KV2N2cXsm5jMIDRXhqKbFLn20gz7PhCM9Vd4=
+=otZx
+-----END PGP SIGNATURE-----
