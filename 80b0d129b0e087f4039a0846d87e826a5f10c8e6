@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-firmware-20210716/ 20210716
+Comment: git version 2.27.0
+
+iQIzBAABCAAdFiEETN6FdeVHv4Nf4VgHoxtr1ySGz9YFAmDxdRUACgkQoxtr1ySG
+z9ZQag/+KEEvBjEZHxjEfiK4fD1kPh5vrAnFHGCCv3IX+4MjR5ovD4TGJM4vZfUs
+VGXLb19Fp6WP6XB2opEkclU9dHOgqtQdr82Qv057Hi5kIZQOkQZMimriE1DcQM8A
+qDQT/gbz7inS7c3dW6qpa2FjoL4ly89QE5iKjgOzgZRsRIbNgmG/Iduk/Wg+n338
+GQOlgbRJak2/hdCBZ3Wh1xKVYTbqKtxtV68zRac4FeBRC0JLNUZOHY2z7NHOLtUi
+/HO4Sm7oQQD3nsI0PruUvBk+Kdjrp1E4bsFM7lorDRkGFtbhqOsB3JUIKMsoiEEw
+XEnVFfbuk5Xb3SLMxxN+2nbhw/qWRIybFH0LtcnmbWpTPAesP+JsYmpcLe+PkwJK
+T0E1TZK3Xtl6yWj6fIaA2v/+rdD4pqCgN3beOELNP/haXwB1f9PMvxQ6ji9aKLIU
+6PfhNmSjqH4C8wOT7Vc5lzFurb8PZ/SqsRHilnNUEUApEczqCNzgVRc76Y+jx865
+776KqLzQj/Ori74/sOG21AE8fkmOTfZaSD7WQOuXRhv5OCzixAxRYhZ5fUTUzoL4
+XE+g7Dekcpyna2LM/9+BqBW7Tx7qnKvLkpaHO0LxhNZ9oBGsSliHCy761+S9M+Ez
+F4H8mnzq5z4qW29hh+DEV+W300pVhmy6H4XZzoN16PGCOt0amn0=
+=I57a
+-----END PGP SIGNATURE-----
