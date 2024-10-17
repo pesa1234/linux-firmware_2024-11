@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-firmware-20241017/ 20241017
+Comment: git version 2.43.5
+
+iQIzBAABCAAdFiEETN6FdeVHv4Nf4VgHoxtr1ySGz9YFAmcRCBoACgkQoxtr1ySG
+z9bOcBAAuD5CEMYq0KbvGWtrttlxMbnXerIKTIv115RvTqVr2Op6DzWzQ9sYHmT+
+fs2nWVVLXd2OxCcqMvmQHrTLwCcDTWricnox2otEDJsvTb/mf54qXuQsd0xOi5al
+xYV8KBXWwAQzeQjSLHD5dQcB8LYCBMLP6u1imOJb1E5RqFMeW+7o0lOsUfs7KLAZ
+cVINZX+xgxoiuC9m2gjp+GmUJLhQT79I5F+Lml71w1GqU5zx/1VNJJRCsWa3uKKU
+gPWouuoZ5tPnK5LbFF8btOq9icuadHtPRQGMdoIpJy+IoDH4luwbe62DhzrfrZkL
+QFYL+FMp2jz5M6rh0q0OwamC8oCkydeu7Vkh4nQEjt/cQIXNWDQCqBL8d8g72hgo
+vXft+KjlwXERafeJFwabpDJMT8Nk1xaw+yVrDWQvfltTxx2MaKJMwRodZt3P7WTO
+0YGJw6H66e5xZFwLE8ojv0T9L38zjUPQbSD+S/Xz07WqABaAKPzHVomOLdPU7aJu
+AyGVKl7mU16Ag0ecG5Md0xrpUI37ufMcIM1vl9x0/p3pp/Mx8biGasxvPW74IMFe
+PgoCzK3KrUPDl6X+tP/zJ4wqPH1fmOwuqlIRJA+3ujVyVAXXAkD+Q0dcZJJda+og
+MExbkUSZyidhOtcVvceCad5S0gQXMc20iI5trlXMWM5bBY8vHqo=
+=Su5z
+-----END PGP SIGNATURE-----
